@@ -32,10 +32,6 @@ AuthGuard includes a giveaway system that allows server owners to run giveaways 
 
 AuthGuard includes a music system that allows users to listen to music in voice channels. Users can search for and play songs from YouTube, or play a radio station.
 
-#### Greet System
-
-The greet system allows server owners to welcome new users to the server with a custom message. Server owners can customize the greeting message to suit their needs.
-
 #### ChatGPT System
 
 The ChatGPT system allows users to chat with a GPT-powered AI. Users can chat with the AI in a dedicated channel, or use a command to start a private chat.
